@@ -6,7 +6,7 @@ final class SwiftMatrixTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(SwiftMatrix().text, "Hello, World!")
+//        XCTAssertEqual(SwiftMatrix().text, "Hello, World!")
     }
 
     static var allTests = [
